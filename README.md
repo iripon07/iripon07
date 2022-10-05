@@ -1,4 +1,4 @@
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hi there my gorgeous friend <img src="hello.gif" width="28px" alt="hi">
 
 I'm Md. Asadul Islam, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects and learning new projects.
 
