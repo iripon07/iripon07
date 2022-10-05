@@ -22,7 +22,7 @@ I'm Md. Asadul Islam Ripon, a Full Stack Web Application Developer from <img src
 
 <details>
 <summary>
-  You wanna know more about me?
+  Wanna know more about me?
 </summary>
 
 <br >
