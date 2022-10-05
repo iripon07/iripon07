@@ -1,6 +1,6 @@
 ## Hi there my gorgeous friend <img src="hello.gif" width="28px" alt="hi">
 
-I'm Md. Asadul Islam, a Full Stack Web Application Developer from <img src="bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects and learning new projects.
+I'm Md. Asadul Islam, a Full Stack Web Application Developer from <img src="bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects and learning new technologies.
 
 :coffee: &emsp;Connect with me!
 
