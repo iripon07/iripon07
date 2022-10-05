@@ -27,9 +27,9 @@ I'm Md. Asadul Islam Ripon, a Full Stack Web Application Developer from <img src
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
+I love coding, programming & developing!
 
-#### What is Learn with Sumit?
+#### Who I Am?
 
 "I am Ripon, Full Stack Web Developer, My prime focus, attention to detail with proper knowledge of recent web technologies make me an exceptional. I am self-motivated, use good judgment, and can manage my time wisely to meet deadlines. 
 
