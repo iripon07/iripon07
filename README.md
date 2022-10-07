@@ -9,7 +9,7 @@ I'm Md. Asadul Islam Ripon, a Full Stack Web Application Developer from <img src
 :hearts: &emsp;I love programming, coding & developing <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
-:e-mail: &emsp;How to reach me: mdasadulripon@gmail.com.<br/>
+:e-mail: &emsp;How to reach me: mdasadulripon@gmail.com<br/>
 
 #### Things I code with
 
