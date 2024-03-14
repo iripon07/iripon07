@@ -1,6 +1,7 @@
 ### Hi Friend <img src="hello.gif" width="28px" alt="hi">
 
-I'm Md. Asadul Islam Ripon, a Full Stack Web Application Developer from <img src="bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects and learning new technologies.
+I'm Md. Asadul Islam Ripon, a Full Stack Web Application Developer from <img src="bangladesh.png" width="18"/> Bangladesh. I Spend most of my time coding outstanding projects and learning new technologies.
+[Visit GitHub](https://github.com)
 
 :coffee: &emsp;Connect with me!
 
