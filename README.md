@@ -1,3 +1,26 @@
+<h1 align="center">Hi 👋, I'm Md. Asadul Islam Ripon</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Engineer;Full+Stack+Developer;Automation+%26+Web+Scraping+Expert" />
+</p>
+
+<p align="center">
+Passionate Software Engineer from Bangladesh 🇧🇩 building scalable applications, working with data pipelines, and solving real-world problems through code.
+</p>
+
+---
+
+# 🚀 About Me
+
+- 👨‍💻 Full Stack Web Developer  
+- 🐍 Python Developer & Automation Engineer  
+- 📊 Learning **Data Engineering & Big Data Systems**  
+- ⚡ Expert in **Web Scraping & Data Collection**  
+- 🌍 Open to **Remote Jobs (USA / Europe / Middle East)**  
+- 🎯 Goal: Become a **Top Data Engineer**
+
+---
+
 Hey there! 👋 I'm Asadul!
 =============================
 Software Engineer
